@@ -16,76 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "nav-financial-regulation",
-          title: "Financial Regulation",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/financialregulation/";
-          },
-        },{id: "nav-law-and-economics",
-          title: "Law and Economics",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/lawandeconomics/";
-          },
-        },{id: "nav-regulating-innovation-amp-technology",
-          title: "Regulating Innovation &amp; Technology",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/regulatinginnovationandtechnology/";
-          },
-        },{id: "nav-regulatory-design",
-          title: "Regulatory Design",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/regulatorydesign/";
-          },
-        },{id: "nav-social-amp-environmental-regulation",
-          title: "Social &amp; Environmental Regulation",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/socialandenvironmentalregulation/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "nav-utilities-amp-infrastructure",
-          title: "Utilities &amp; Infrastructure",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/utilitiesandinfrastructure/";
-          },
         },{id: "nav-what-we-do",
           title: "What We Do",
           description: "",
@@ -93,14 +23,49 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/What%20We%20Do/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "dropdown-regulatory-design",
+              title: "Regulatory Design",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/regulatorydesign/";
+              },
+            },{id: "dropdown-law-and-economics",
+              title: "Law and Economics",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lawandeconomics/";
+              },
+            },{id: "dropdown-utilities-amp-infrastructure",
+              title: "Utilities &amp; Infrastructure",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/utilitiesandinfrastructure/";
+              },
+            },{id: "dropdown-financial-regulation",
+              title: "Financial Regulation",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/financialregulation/";
+              },
+            },{id: "dropdown-regulating-innovation-amp-technology",
+              title: "Regulating Innovation &amp; Technology",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/regulatinginnovationandtechnology/";
+              },
+            },{id: "dropdown-social-amp-environmental-regulation",
+              title: "Social &amp; Environmental Regulation",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/socialandenvironmentalregulation/";
+              },
+            },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
