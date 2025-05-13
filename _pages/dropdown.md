@@ -1,13 +1,25 @@
 ---
 layout: page
-title: submenus
+title: Research Themes
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: Regulatory Design
+    permalink: /regulatorydesign/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Law and Economics
+    permalink: /lawandeconomics/
+  - title: divider
+  - title: Utilities & Infrastructure
+    permalink: /utilitiesandinfrastructure/
+  - title: divider
+  - title: Financial Regulation
+    permalink: /financialregulation/
+  - title: divider
+  - title: Regulating Innovation & Technology
+    permalink: /regulatinginnovationandtechnology/
+  - title: divider
+  - title: Social & Environmental Regulation
+    permalink: /socialandenvironmentalregulation/
 ---
