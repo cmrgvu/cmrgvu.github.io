@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Centre for Market Regulations and Governance (CMRG)</a>.
+subtitle: <a href='#'>Centre for Market Regulations and Governance CMRG</a>.
 
 profile:
   align: right
