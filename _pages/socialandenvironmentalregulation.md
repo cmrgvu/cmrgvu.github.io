@@ -3,7 +3,7 @@ layout: page
 permalink: /socialandenvironmentalregulation/
 title: Social & Environmental Regulation
 description:
-nav: true
+nav: false
 nav_order: 6
 ---
 

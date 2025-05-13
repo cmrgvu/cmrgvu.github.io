@@ -3,7 +3,7 @@ layout: page
 permalink: /financialregulation/
 title: Financial Regulation
 description:
-nav: true
+nav: false
 nav_order: 6
 ---
 

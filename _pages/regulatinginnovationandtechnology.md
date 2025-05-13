@@ -3,7 +3,7 @@ layout: page
 permalink: /regulatinginnovationandtechnology/
 title: Regulating Innovation & Technology
 description:
-nav: true
+nav: false
 nav_order: 6
 ---
 

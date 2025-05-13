@@ -3,7 +3,7 @@ layout: page
 permalink: /lawandeconomics/
 title: Law and Economics
 description:
-nav: true
+nav: false
 nav_order: 6
 ---
 

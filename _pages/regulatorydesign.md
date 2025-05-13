@@ -3,7 +3,7 @@ layout: page
 permalink: /regulatorydesign/
 title: Regulatory Design
 description:
-nav: true
+nav: false
 nav_order: 6
 ---
 
