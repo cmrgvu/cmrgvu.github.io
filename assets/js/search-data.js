@@ -100,49 +100,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-regulatory-design",
-              title: "Regulatory Design",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/regulatorydesign/";
-              },
-            },{id: "dropdown-law-and-economics",
-              title: "Law and Economics",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/lawandeconomics/";
-              },
-            },{id: "dropdown-utilities-amp-infrastructure",
-              title: "Utilities &amp; Infrastructure",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/utilitiesandinfrastructure/";
-              },
-            },{id: "dropdown-financial-regulation",
-              title: "Financial Regulation",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/financialregulation/";
-              },
-            },{id: "dropdown-regulating-innovation-amp-technology",
-              title: "Regulating Innovation &amp; Technology",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/regulatinginnovationandtechnology/";
-              },
-            },{id: "dropdown-social-amp-environmental-regulation",
-              title: "Social &amp; Environmental Regulation",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/socialandenvironmentalregulation/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
