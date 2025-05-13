@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: <a href='#'>Centre for Market Regulations and Governance (CMRG)</a>.
 
-<!---
 profile:
   align: right
   image: prof_pic.jpg
@@ -13,7 +12,6 @@ profile:
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
--->
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -32,6 +30,7 @@ latest_posts:
 The Centre for Market Regulations and Governance (CMRG) at [Vidyashilp University](https://vidyashilp.edu.in/) is a pioneering initiative for interdisciplinary research and education in law, economics, regulation, and governance. Positioned at the intersection of policy and practice, CMRG advances thought leadership, research-driven insights, and meaningful stakeholder engagement to shape the future of regulatory governance.
 
 Our mission is to establish regulation as a multidisciplinary field, equipping scholars, policymakers, businesses, and regulatory bodies with the knowledge and tools necessary to navigate complex market regulations. CMRG fosters collaboration between academia, industry, and government to shape efficient, transparent, and effective regulatory frameworks. Through collaborations between academia, industry, and government, CMRG is committed to advancing best practices, strengthening institutional capacity, and enabling informed decision-making in regulatory governance.
+
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
