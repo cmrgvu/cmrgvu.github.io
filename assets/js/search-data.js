@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-contact-us",
-          title: "Contact Us",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Contact%20Us/";
-          },
-        },{id: "nav-study",
+  },{id: "nav-study",
           title: "Study",
           description: "",
           section: "Navigation",
@@ -86,7 +79,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/socialandenvironmentalregulation/";
               },
-            },{id: "books-the-godfather",
+            },{id: "nav-contact-us",
+          title: "Contact Us",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Contact%20Us/";
+          },
+        },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
