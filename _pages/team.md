@@ -9,6 +9,7 @@ nav_order: 6
 
 # Advisory Board
 [Prof. M.S. Sahoo](https://vidyashilp.edu.in/sahoo/)
+
 [Prof. Prof. T.S. Somashekar](https://www.nls.ac.in/faculty/t-s-somashekar/)
 
 ## Our Team
