@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/What%20We%20Do/";
           },
-        },{id: "nav-media",
-          title: "Media",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/media/";
-          },
         },{id: "dropdown-regulatory-design",
               title: "Regulatory Design",
               description: "",
@@ -79,7 +72,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/socialandenvironmentalregulation/";
               },
-            },{id: "nav-contact-us",
+            },{id: "nav-media",
+          title: "Media",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/media/";
+          },
+        },{id: "nav-contact-us",
           title: "Contact Us",
           description: "",
           section: "Navigation",
