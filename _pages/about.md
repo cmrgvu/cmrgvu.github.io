@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: <a href='#'>Centre for Market Regulations and Governance (CMRG)</a>.
