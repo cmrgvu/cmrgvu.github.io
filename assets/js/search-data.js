@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/study/";
           },
-        },{id: "nav-team",
-          title: "Team",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/team/";
-          },
         },{id: "nav-what-we-do",
           title: "What We Do",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/What%20We%20Do/";
+          },
+        },{id: "nav-team",
+          title: "Team",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/team/";
           },
         },{id: "dropdown-regulatory-design",
               title: "Regulatory Design",
