@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Centre for Market Regulations and Governance (CMRG) # the website title (if blank, full name will be used instead)
-first_name: Centre for Market Regulations and Governance (CMRG)
-middle_name:
+title: blank # the website title (if blank, full name will be used instead)
+first_name: CMRG
+middle_name: Centre for Market Regulations and Governance
 last_name: 
-contact_note: cmrg@vidyashilp.edu.in
+contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
