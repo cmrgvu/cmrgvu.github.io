@@ -9,7 +9,35 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-what-we-do",
+  },{id: "nav-contact-us",
+          title: "Contact Us",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Contact%20Us/";
+          },
+        },{id: "nav-media",
+          title: "Media",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/media/";
+          },
+        },{id: "nav-study",
+          title: "Study",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/study/";
+          },
+        },{id: "nav-team",
+          title: "Team",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/team/";
+          },
+        },{id: "nav-what-we-do",
           title: "What We Do",
           description: "",
           section: "Navigation",
