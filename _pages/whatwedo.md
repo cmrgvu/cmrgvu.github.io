@@ -4,7 +4,7 @@ permalink: /What We Do/
 title: What We Do
 description:
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 CMRG enhances regulatory literacy, improves governance mechanisms, and contributes to policy reforms through:
