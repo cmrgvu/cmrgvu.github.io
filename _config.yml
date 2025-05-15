@@ -88,9 +88,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name: #al-folio # blog_name will be displayed in your blog page
+blog_description: #a simple whitespace theme for academics
+permalink: #/blog/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
@@ -153,6 +153,27 @@ collections:
     output: true
   projects:
     output: true
+
+    #collections:
+  #news:
+    #defaults:
+      #layout: post
+    #output: true
+    #permalink: /news/:path/
+  #projects:
+    #output: true
+    #permalink: /projects/:path/
+  #members:
+    #output: true
+    #permalink: /members/:path
+  #collaborators:
+    #output: true
+    #permalink: /collaborators/:path
+  #funding:
+    #output: true
+    #permalink: /funding/:path
+
+#news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
