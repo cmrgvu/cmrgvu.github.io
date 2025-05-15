@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /study/
-title: 
+title: Study
 description:
 nav: true
 nav_order: 6
