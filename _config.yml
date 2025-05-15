@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Centre for Market Regulations 
-middle_name: and Governance
-last_name: \(CMRG\)
+first_name: Centre for Market Regulations and Governance 
+middle_name: [CMRG] 
+last_name: 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
