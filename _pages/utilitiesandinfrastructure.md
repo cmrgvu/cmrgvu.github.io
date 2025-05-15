@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /utilitiesandinfrastructure/
-title: Utilities & Infrastructure
+title: Utilities & Infrastructure Regulation
 description:
 nav: false
 nav_order: 6
