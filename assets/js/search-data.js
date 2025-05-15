@@ -44,8 +44,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/lawandeconomics/";
               },
-            },{id: "dropdown-utilities-amp-infrastructure",
-              title: "Utilities &amp; Infrastructure",
+            },{id: "dropdown-utilities-amp-infrastructure-regulation",
+              title: "Utilities &amp; Infrastructure Regulation",
               description: "",
               section: "Dropdown",
               handler: () => {
