@@ -11,7 +11,7 @@ children:
   - title: Law and Economics
     permalink: /lawandeconomics/
   - title: divider
-  - title: Utilities & Infrastructure
+  - title: Utilities & Infrastructure Regulation
     permalink: /utilitiesandinfrastructure/
   - title: divider
   - title: Financial Regulation
