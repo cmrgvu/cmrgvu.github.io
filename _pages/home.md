@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home
+title: Home
 home_title: Centre for Market Regulations and Governance (CMRG)
 subtitle:
 nav_title: home
