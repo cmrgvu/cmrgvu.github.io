@@ -5,7 +5,7 @@ home_title: Centre for Market Regulations and Governance (CMRG)
 subtitle:
 nav_title: home
 permalink: /
----
+
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
