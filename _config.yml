@@ -249,8 +249,8 @@ defaults:
     values:
       image: /assets/img/vidyashilpuniversity_logo.png # Default open graph image
 
-sass:
-  style: compressed
+# sass:
+ # style: compressed
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
