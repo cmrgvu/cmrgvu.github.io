@@ -16,6 +16,7 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
 ---
 
 The Centre for Market Regulations and Governance (CMRG) at [Vidyashilp University](https://vidyashilp.edu.in/) is a pioneering initiative for interdisciplinary research and education in law, economics, regulation, and governance. Positioned at the intersection of policy and practice, CMRG advances thought leadership, research-driven insights, and meaningful stakeholder engagement to shape the future of regulatory governance.
