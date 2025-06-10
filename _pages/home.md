@@ -1,10 +1,11 @@
 ---
 layout: about
-title: Home
-home_title: __Centre for Market Regulations and Governance (CMRG)__
-subtitle:
-nav_title: Home
 permalink: /
+title: <b>C</b>entre for <b>M</b>arket <b>R</b>egulations and <b>G</b>overnance (CMRG)
+description: School of Legal Studies and Governance (SLSG) • Vidyashilp University
+logo: vidyashilpuniversity_logo.png
+news: true
+nav_title: Home
 ---
 # **Centre for Market Regulations and Governance** (CMRG)
 \
