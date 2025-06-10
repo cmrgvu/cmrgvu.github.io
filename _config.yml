@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: CMRG # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: CMRG0
 middle_name: CMRG1
 last_name: CMRG2
