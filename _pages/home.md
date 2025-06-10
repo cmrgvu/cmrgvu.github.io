@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: about
 title: Home
 home_title: __Centre for Market Regulations and Governance (CMRG)__
 subtitle:
