@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Contact Us/
+permalink: /contactus/
 title: Contact Us
 description:
 nav: true
