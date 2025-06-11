@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /What We Do/
+permalink: /whatwedo/
 title: What We Do
 description:
 nav: true
