@@ -9,5 +9,5 @@ children:
     permalink: /certificatecourse/
   - title: divider
   - title: Seminars/Workshops/Roundtables
-    permalink: /
+    permalink: /undercon/
 ---
