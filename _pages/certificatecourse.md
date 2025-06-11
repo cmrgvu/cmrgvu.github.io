@@ -7,7 +7,6 @@ nav: false
 nav_order: 6
 ---
 
-### Certificate Courses (Executive Education and Capacity Building)
 CMRG offers specialized certificate programs tailored for regulators, industry professionals, and scholars seeking a deeper understanding of regulatory enforcement and compliance.
 
 
