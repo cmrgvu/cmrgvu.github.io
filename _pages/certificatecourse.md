@@ -3,7 +3,7 @@ layout: page
 permalink: /certificatecourse/
 title: Certificate Courses (Executive Education and Capacity Building)
 description:
-nav: true
+nav: false
 nav_order: 6
 ---
 
