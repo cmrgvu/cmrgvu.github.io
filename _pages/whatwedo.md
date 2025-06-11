@@ -3,7 +3,7 @@ layout: page
 permalink: /whatwedo/
 title: What We Do
 description:
-nav: true
+nav: false
 nav_order: 5
 ---
 
