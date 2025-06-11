@@ -12,7 +12,7 @@ children:
     permalink: /team/
   - title: divider
   - title: Advisory Board
-    permalink: /team/
+    permalink: /advisoryboard/
   - title: divider
   - title: Partnerships and Collaborations
     permalink: /
