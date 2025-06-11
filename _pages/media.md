@@ -3,7 +3,7 @@ layout: page
 permalink: /media/
 title: Media
 description:
-nav: true
+nav: false
 nav_order: 9
 ---
 

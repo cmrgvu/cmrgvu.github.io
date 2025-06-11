@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 nav: true
-nav_order: 7
+nav_order: 8
 dropdown: true
 children:
   - title: Research Papers
