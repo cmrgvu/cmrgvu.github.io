@@ -1,8 +1,9 @@
 ---
 layout: page
 permalink: /
-title: "Under Construction"
+title: 
 description:
+nav: false
 redirect: true
 ---
 
