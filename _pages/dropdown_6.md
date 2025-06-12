@@ -6,5 +6,5 @@ nav_order: 11
 dropdown: true
 children:
   - title: Current Initiatives
-    permalink: /undercon/
+    permalink: /404.html
 ---

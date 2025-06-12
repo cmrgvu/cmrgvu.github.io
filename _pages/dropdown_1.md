@@ -15,11 +15,11 @@ children:
     permalink: /advisoryboard/
   - title: divider
   - title: Partnerships and Collaborations
-    permalink: /undercon/
+    permalink: /
   - title: divider
   - title: Fellows/ Scholars
-    permalink: /undercon/
+    permalink: /
   - title: divider
   - title: Our Policies
-    permalink: /undercon/
+    permalink: /
 ---

@@ -6,11 +6,11 @@ nav_order: 10
 dropdown: true
 children:
   - title: Fellowships
-    permalink: /undercon/
+    permalink: /
   - title: divider
   - title: Internships
-    permalink: /undercon/
+    permalink: /
   - title: divider
   - title: Current Vacancies
-    permalink: /undercon/
+    permalink: /
 ---

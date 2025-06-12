@@ -6,35 +6,35 @@ nav_order: 8
 dropdown: true
 children:
   - title: Research Papers
-    permalink: /undercon/
+    permalink: /
   - title: divider
   - title: Policy Briefs
-    permalink: /undercon/
+    permalink: /
   - title: divider
   - title: Public Comments
-    permalink: /undercon/
+    permalink: /
   - title: divider
   - title: Media
-    permalink: /undercon/
+    permalink: /
   - title: divider
   - title: Case Studies
-    permalink: /undercon/
+    permalink: /
   - title: divider
   - title: Journal
-    permalink: /undercon/
+    permalink: /
   - title: divider
   - title: Books
-    permalink: /undercon/
+    permalink: /
   - title: divider
   - title: Blog
-    permalink: /undercon/
+    permalink: /
   - title: divider
   - title: Videos
-    permalink: /undercon/
+    permalink: /
   - title: divider
   - title: Podcast
-    permalink: /undercon/
+    permalink: /
   - title: divider
   - title: Newsletter
-    permalink: /undercon/
+    permalink: /
 ---
