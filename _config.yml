@@ -2,7 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: CMRG
-title: CMRG # the website title (if blank, full name will be used instead)
+title: CMRG 
+# the website title (if blank, full name will be used instead)
 contact_note: cmrg@vidyashilp.edu.in
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
