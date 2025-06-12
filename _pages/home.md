@@ -5,6 +5,9 @@ home_title: __Centre for Market Regulations and Governance (CMRG)__
 subtitle:
 nav_title: Home
 permalink: /
+description:
+nav: true
+nav_order: 1
 ---
 # **Centre for Market Regulations and Governance** (CMRG)
 \
