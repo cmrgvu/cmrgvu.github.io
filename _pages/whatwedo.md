@@ -7,7 +7,7 @@ nav: false
 nav_order: 5
 ---
 
-CMRG enhances regulatory literacy, improves governance mechanisms, and contributes to policy reforms through:
+**CMRG** enhances regulatory literacy, improves governance mechanisms, and contributes to policy reforms through:
 
 + Regulatory Research & Thought Leadership – Conducting evidence-based studies on evolving regulatory challenges.
 
