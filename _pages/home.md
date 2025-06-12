@@ -6,7 +6,7 @@ subtitle:
 nav_title: Home
 permalink: /
 description:
-nav: true
+nav: false
 nav_order: 4
 ---
 # **Centre for Market Regulations and Governance** (CMRG)
