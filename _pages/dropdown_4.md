@@ -6,8 +6,8 @@ nav_order: 9
 dropdown: true
 children:
   - title: Conferences
-    permalink: /certificatecourse/
+    permalink: /
   - title: divider
   - title: Seminars/Workshops/Roundtables
-    permalink: /
+    permalink: /pastevents/
 ---
