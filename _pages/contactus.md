@@ -11,7 +11,7 @@ For inquiries, collaborations, or to stay updated on CMRG’s research and event
 
 **e-mail: cmrg@vidyashilp.edu.in**
 
-<img src="..assets/img/vidyashilpuniversity_logo.png">
+# <img src="..assets/img/vidyashilpuniversity_logo.png">
 
 **Address: Vidyashilp University, #125, Bettenahalli, Kundana Hobli, Chapparkallu Road, Bengaluru - 562110**
 
