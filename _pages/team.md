@@ -1,13 +1,12 @@
 ---
 layout: page
 permalink: /team/
-title: 
+title: Our Team 
 description:
 nav: false
 nav_order: 7
 ---
 
-### Our Team
 [Prof. P.G. Babu](https://vidyashilp.edu.in/pg_babu/)
 
 [Prof. Roopa Madhav](https://vidyashilp.edu.in/roopa-madhav/)
