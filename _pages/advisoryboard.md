@@ -6,30 +6,17 @@ description:
 nav: false
 nav_order: 7
 ---
-
-<div class="row">
-  <div class="col">
-    {% include figure.html path="assets/img/prof_ms_sahoo.jpeg" class="img-fluid rounded z-depth-1" %}
-    <strong>
-      <center>
-        [Prof. M.S. Sahoo](https://vidyashilp.edu.in/sahoo/)
-      </center>
-    </strong><br>
-    Distinguished Professor (Honorary), School of Legal Studies and Governance
-  </div>
-
-  <div class="col">
-    {% include figure.html path="assets/img/prof_somashekar.jpg" class="img-fluid rounded z-depth-1" %}
-    <strong>
-      <center>
-       [Prof. T.S. Somashekar](https://www.nls.ac.in/faculty/t-s-somashekar/) 
-      </center>
-    </strong><br>
-    PhD Professor of Economics, National Law School of India University, Bengaluru
-  </div>
-  <div class="w-100"><br></div><br>
-
-  <!-- <div class="col"> -->
-  <!-- a spacer -->
-  <!-- </div> -->
-</div>
+/
+[Prof. M.S. Sahoo](https://vidyashilp.edu.in/sahoo/)
+Distinguished Professor (Honorary), School of Legal Studies and Governance
+profile:
+  align: right
+  image: prof_ms_sahoo.jpeg
+/
+/
+/
+[Prof. T.S. Somashekar](https://www.nls.ac.in/faculty/t-s-somashekar/)
+PhD Professor of Economics, National Law School of India University, Bengaluru
+profile:
+  align: right
+  image: prof_somashekar.jpg
