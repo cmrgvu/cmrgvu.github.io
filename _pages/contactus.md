@@ -16,7 +16,7 @@ For inquiries, collaborations, or to stay updated on CMRG’s research and event
 \
 \
 \
-[<img align="right" src="/assets/img/vidyashilpuniversity_logo.png" alt="Vidyashilp University Logo" width="300"/>](https://vidyashilp.edu.in/)
+[<img align="right aligned" src="/assets/img/vidyashilpuniversity_logo.png" alt="Vidyashilp University Logo" width="300"/>](https://vidyashilp.edu.in/)
 **e-mail: cmrg@vidyashilp.edu.in**
 \
 \
