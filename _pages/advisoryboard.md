@@ -11,7 +11,7 @@ nav_order: 7
 \
 \
 \
-$~$ [__Prof. M.S. Sahoo__](https://vidyashilp.edu.in/sahoo/) 
+$~$[__Prof. M.S. Sahoo__](https://vidyashilp.edu.in/sahoo/) 
 \
 $~$ _Distinguished Professor (Honorary), School of Legal Studies and Governance, Vidyashilp University, Bengaluru_
 <br clear="left"/>
