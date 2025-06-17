@@ -6,11 +6,11 @@ nav_order: 10
 dropdown: true
 children:
   - title: Fellowships
-    permalink: /
+    permalink: /404/
   - title: divider
   - title: Internships
-    permalink: /
+    permalink: /404/
   - title: divider
   - title: Current Vacancies
-    permalink: /
+    permalink: /404/
 ---
