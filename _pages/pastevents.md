@@ -18,4 +18,5 @@ The faculty and the sessions:
 + __[Prof. T. S. Somashekar](https://www.nls.ac.in/faculty/t-s-somashekar/)__ on __Overview of Regulatory Architecture__
 <br>
 <br>
+\
 <img align="left" src="/assets/img/cmrg_march2025.png" alt="Certificate Course on Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners | May 10-11, 2025" width="1000"/>
