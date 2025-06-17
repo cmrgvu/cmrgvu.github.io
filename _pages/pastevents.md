@@ -7,16 +7,8 @@ nav: false
 nav_order: 6
 ---
 
-CMRG offers specialized certificate programs tailored for regulators, industry professionals, and scholars seeking a deeper understanding of regulatory enforcement and compliance.
 /
 ### Past Events
-__Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners__
-This domain-agnostic course provided a structured approach to regulatory enforcement, covering procedural aspects, compliance mechanisms, and best practices for both regulators and regulated entities.
-
-__Date__: March 10-11, 2025
-
-__Venue__: Vidyashilp University, Bangalore
-
-__Mode__: In-person
-
-
+/
+<strong>Past Events:</strong> <br>
+On __March 10-11, 2025__, CMRG organised __Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners__, a domain-agnostic course which provided a structured approach to regulatory enforcement, covering procedural aspects, compliance mechanisms, and best practices for both regulators and regulated entities. This in-person course was held at Vidyashilp University, Bengaluru.
