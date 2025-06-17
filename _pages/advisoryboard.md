@@ -8,7 +8,7 @@ nav_order: 7
 ---
 \
 <img src="/assets/img/prof_ms_sahoo.jpeg" alt="Prof. M. S. Sahoo" width="200"/>
-[__Prof. M.S. Sahoo__](https://vidyashilp.edu.in/sahoo/)
+[__Prof. M.S. Sahoo__](https://vidyashilp.edu.in/sahoo/)\
 _Distinguished Professor (Honorary), School of Legal Studies and Governance_
 \
 \
