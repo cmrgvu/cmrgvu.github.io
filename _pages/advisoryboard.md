@@ -20,7 +20,7 @@ nav_order: 7
 \
 \
 \
- [__Prof. T.S. Somashekar__](https://www.nls.ac.in/faculty/t-s-somashekar/)
+    [__Prof. T.S. Somashekar__](https://www.nls.ac.in/faculty/t-s-somashekar/)
 \
- _PhD Professor of Economics, National Law School of India University, Bengaluru_
+    _PhD Professor of Economics, National Law School of India University, Bengaluru_
  <br clear="left"/>
