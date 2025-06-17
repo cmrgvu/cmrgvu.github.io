@@ -6,7 +6,6 @@ description:
 nav: false
 nav_order: 7
 ---
-# ![Prof M S Sahoo](/assets/img/prof_ms_sahoo.jpeg)
 <img src="/assets/img/prof_ms_sahoo.jpeg" alt="Prof. M. S. Sahooo" width="200"/>
 [Prof. M.S. Sahoo](https://vidyashilp.edu.in/sahoo/)
 Distinguished Professor (Honorary), School of Legal Studies and Governance
