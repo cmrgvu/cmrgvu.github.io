@@ -11,7 +11,7 @@ nav_order: 7
 \
 \
 \
-[__Prof. M.S. Sahoo__](https://vidyashilp.edu.in/sahoo/) 
+$\quad$ [__Prof. M.S. Sahoo__](https://vidyashilp.edu.in/sahoo/) 
 \
 $\quad$ _Distinguished Professor (Honorary)_
 \
