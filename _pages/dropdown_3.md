@@ -6,35 +6,35 @@ nav_order: 8
 dropdown: true
 children:
   - title: Research Papers
-    permalink: /
+    permalink: /404/
   - title: divider
   - title: Policy Briefs
-    permalink: /
+    permalink: /404/
   - title: divider
   - title: Public Comments
-    permalink: /
+    permalink: /404/
   - title: divider
   - title: Media
-    permalink: /
+    permalink: /404/
   - title: divider
   - title: Case Studies
-    permalink: /
+    permalink: /404/
   - title: divider
   - title: Journal
-    permalink: /
+    permalink: /404/
   - title: divider
   - title: Books
-    permalink: /
+    permalink: /404/
   - title: divider
   - title: Blog
-    permalink: /
+    permalink: /404/
   - title: divider
   - title: Videos
-    permalink: /
+    permalink: /404/
   - title: divider
   - title: Podcast
-    permalink: /
+    permalink: /404/
   - title: divider
   - title: Newsletter
-    permalink: /
+    permalink: /404/
 ---
