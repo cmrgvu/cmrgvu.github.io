@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /certificatecourse/
-title: 
+title: Certificate Courses
 description:
 nav: false
 nav_order: 6
