@@ -9,11 +9,11 @@ children:
     permalink: /certificatecourse/
   - title: divider
   - title: PhD Program
-    permalink: /
+    permalink: /404/
   - title: divider
   - title: MOOCs
-    permalink: /
+    permalink: /404/
   - title: divider
   - title: Winter/ Summer Schools
-    permalink: /
+    permalink: /404/
 ---
