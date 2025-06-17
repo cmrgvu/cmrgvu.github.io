@@ -14,7 +14,9 @@ nav_order: 7
 [__Prof. M.S. Sahoo__](https://vidyashilp.edu.in/sahoo/) 
 \
 $\quad$ _Distinguished Professor (Honorary)
+\
 $\quad$ School of Legal Studies and Governance
+\
 $\quad$ Vidyashilp University, Bengaluru_
 <br clear="left"/>
 \
@@ -25,5 +27,6 @@ $\quad$ Vidyashilp University, Bengaluru_
 $\quad$ [__Prof. T.S. Somashekar__](https://www.nls.ac.in/faculty/t-s-somashekar/)
 \
 $\quad$ _PhD Professor of Economics
+\
 $\quad$ _National Law School of India University, Bengaluru_
 <br clear="left"/>
