@@ -27,8 +27,8 @@ nav_order: 7
     </strong><br>
     PhD Professor of Economics, National Law School of India University, Bengaluru
   </div>
+  <div class="w-100"><br></div><br>
 
-    
   <!-- <div class="col"> -->
   <!-- a spacer -->
   <!-- </div> -->
