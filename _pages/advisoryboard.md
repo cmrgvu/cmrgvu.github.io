@@ -11,13 +11,7 @@ nav_order: 7
 \
 \
 \
-<ul>
-&nbsp;&nbsp;[__Prof. M.S. Sahoo__](https://vidyashilp.edu.in/sahoo/)
-</ul>
-\
-<ul>
-&nbsp;&nbsp;_Distinguished Professor (Honorary), School of Legal Studies and Governance, Vidyashilp         University, Bengaluru_
-</ul>
+[__Prof. M.S. Sahoo__](https://vidyashilp.edu.in/sahoo/) <br> _Distinguished Professor (Honorary), School of Legal Studies and Governance, Vidyashilp University, Bengaluru_
 <br clear="left"/>
 \
 [<img align="left" src="/assets/img/prof_somashekar.jpg" alt="Prof. T. S. Somashekar" width="200"/>](https://www.nls.ac.in/faculty/t-s-somashekar/) 
