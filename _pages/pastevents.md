@@ -17,4 +17,5 @@ The faculty and the sessions:
 + __[Prof. M. S. Sahoo](https://sahooregulatorychambers.in/about-us/founder/)__ on __Orders & Appeals__
 + __[Prof. T. S. Somashekar](https://www.nls.ac.in/faculty/t-s-somashekar/)__ on __Overview of Regulatory Architecture__
 <br>
-<img align="center" src="/assets/img/cmrg_march2025.png" alt="Certificate Course on Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners | May 10-11, 2025" width="1000"/>
+<br>
+<img align="left" src="/assets/img/cmrg_march2025.png" alt="Certificate Course on Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners | May 10-11, 2025" width="1000"/>
