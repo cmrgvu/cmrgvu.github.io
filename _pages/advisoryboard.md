@@ -11,5 +11,5 @@ nav_order: 7
 [__Prof. M.S. Sahoo__](https://vidyashilp.edu.in/sahoo/) | _Distinguished Professor (Honorary), School of Legal Studies and Governance_
 \
 \
-[<img src="/assets/img/prof_somashekar.jpg" alt="Prof. T. S. Somashekar" width="200"/>](https://www.nls.ac.in/faculty/t-s-somashekar/) 
+[<img align="left" src="/assets/img/prof_somashekar.jpg" alt="Prof. T. S. Somashekar" width="200"/>](https://www.nls.ac.in/faculty/t-s-somashekar/) 
 [__Prof. T.S. Somashekar__](https://www.nls.ac.in/faculty/t-s-somashekar/) | _PhD Professor of Economics, National Law School of India University, Bengaluru_
