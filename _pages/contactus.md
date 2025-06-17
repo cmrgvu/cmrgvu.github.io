@@ -16,10 +16,10 @@ For inquiries, collaborations, or to stay updated on CMRG’s research and event
 \
 \
 \
-[<img align="right" src="/assets/img/vidyashilpuniversity_logo.png" alt="Vidyashilp University Logo" width="300"/>](https://vidyashilp.edu.in/)
 **e-mail: cmrg@vidyashilp.edu.in**
 \
 \
+[<img align="right" src="/assets/img/vidyashilpuniversity_logo.png" alt="Vidyashilp University Logo" width="300"/>](https://vidyashilp.edu.in/)
 **Address**: <br>
 Centre for Market Regulations and Governance (CMRG),<br> 
 School of Legal Studies and Governance,<br>
