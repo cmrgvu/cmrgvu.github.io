@@ -26,7 +26,7 @@ $\quad$ Vidyashilp University, Bengaluru_
 \
 $\quad$ [__Prof. T.S. Somashekar__](https://www.nls.ac.in/faculty/t-s-somashekar/)
 \
-$\quad$ _PhD Professor of Economics
+$\quad$ _PhD Professor of Economics_
 \
 $\quad$ _National Law School of India University, Bengaluru_
 <br clear="left"/>
