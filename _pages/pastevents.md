@@ -12,5 +12,5 @@ On __March 10-11, 2025__, CMRG organised __Enforcement Process for Regulators, R
 The faculty and the sessions: 
 + __[Mr. P K Nagpal](https://in.linkedin.com/in/p-k-nagpal)__ on __Supervision & Oversight__
 + __Mr. J. Ranganayakulu__ on __Enforcement & Adjudication__
-+ __Prof. M. S. Sahoo__ on __Orders & Appeals__
-+ __Prof. T. S. Somashekar__ on __Overview of Regulatory Architecture__
++ __[Prof. M. S. Sahoo](https://sahooregulatorychambers.in/about-us/founder/)__ on __Orders & Appeals__
++ __[Prof. T. S. Somashekar](https://www.nls.ac.in/faculty/t-s-somashekar/)__ on __Overview of Regulatory Architecture__
