@@ -6,10 +6,8 @@ description:
 nav: false
 nav_order: 12
 ---
-
+<img align="left" src="/assets/img/topbar1.png" alt="side" width="75"/>
 **Work-in-Progress** 
-
-# <img align="left" src="/assets/img/SideBar_1.png" alt="side" width="75"/>
 
 __'Gig Workspace, Labour Process and Regulations in India'__, co-authored by _Avi Singh Majithia_ and _Prof. Roopa Madhav_ with _[Prof. Amrita Ghatak](https://gidr.ac.in/faculty/22)_ (Gujarat Institute of Development Research, India), this paper shall be presented at the [9th Regulating for Decent Work Conference](https://www.conftool.org/rdw2025/index.php?page=browseSessions&path=adminSessions&mode=list&presentations=show) to be held between 02 to 04 July 2025 at International Labour Organization, Geneva. 
 
