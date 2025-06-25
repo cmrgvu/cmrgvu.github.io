@@ -7,10 +7,10 @@ nav: false
 nav_order: 12
 ---
 
-<img align="left" src="/assets/img/SideBar_1.png" alt="side" width="75"/>
-\
 **Work-in-Progress** 
-\
+
+<img align="left" src="/assets/img/SideBar_1.png" alt="side" width="75"/>
+
 __'Gig Workspace, Labour Process and Regulations in India'__, co-authored by _Avi Singh Majithia_ and _Prof. Roopa Madhav_ with _[Prof. Amrita Ghatak](https://gidr.ac.in/faculty/22)_ (Gujarat Institute of Development Research, India), this paper shall be presented at the [9th Regulating for Decent Work Conference](https://www.conftool.org/rdw2025/index.php?page=browseSessions&path=adminSessions&mode=list&presentations=show) to be held between 02 to 04 July 2025 at International Labour Organization, Geneva. 
 \
 Abstract: The rise of gig work and the platform economy is reshaping how we view work, blurring the lines between employment and entrepreneurship, while challenging traditional labour protections and regulatory frameworks. Despite employment policy and employment generation programmes, the majority of India’s workforce is informal. Recent advancements of the sharing economy and gig work reinforce informality in many occupations. This phenomenon goes beyond India wherein advancements in technology and artificial intelligence have led to a surge in gig and platform-based work. Thus, digital production sites have become key spaces, redefining employer-employee relationships, particularly in terms of control (both spatial and temporal), supervision, feedback mechanisms, and working conditions.
