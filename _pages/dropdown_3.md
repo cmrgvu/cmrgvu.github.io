@@ -6,7 +6,7 @@ nav_order: 8
 dropdown: true
 children:
   - title: Research Papers
-    permalink: /404/
+    permalink: /researchpapers/
   - title: divider
   - title: Policy Briefs
     permalink: /404/
