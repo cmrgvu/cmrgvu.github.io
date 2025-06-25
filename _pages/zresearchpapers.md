@@ -7,7 +7,7 @@ nav: false
 nav_order: 12
 ---
 
-<img align="left" src="/assets/img/topbar1.png" alt="side" width="400"/>
+<img align="left" src="/assets/img/topbar1.png" alt="side" width="1000"/>
 
 **Work-in-Progress** 
 
