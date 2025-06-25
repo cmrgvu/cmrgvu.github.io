@@ -27,5 +27,4 @@ _References_
 Braverman, H. (1974). Labor and Monopoly Capital. The Degradation of Work in the Twentieth Century (New York: Monthly Review Press)
 \
 Woodcock, Jamie and Graham, Mark. (2020). The Gig Economy: A Critical Introduction, Cambridge: Polity
-\
 
