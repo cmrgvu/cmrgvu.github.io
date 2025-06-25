@@ -22,7 +22,7 @@ At the heart of these transformations is worker agency, since the platform econo
 Drawing on examples from primary, secondary and tertiary sectors in India within the gig workspace, this paper focuses on: (a) disaggregating labour through definitions, (b) digital production sites and commodification of labour, (c) dilution of the typical employer-employee relationship and its role in labour protections, (d) algorithmic control and their connection to worker well-being, and (e) the dynamic movement between self-employment and gig work in the platform economy and the role of worker agency.
 
 
-+ _References_
+_References_
 \
 Braverman, H. (1974). Labor and Monopoly Capital. The Degradation of Work in the Twentieth Century (New York: Monthly Review Press)
 \
