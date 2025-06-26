@@ -22,8 +22,9 @@ This paper borrows ideas from Labour Process Theory (LPT) (Braverman, 1974) to a
 
 At the heart of these transformations is worker agency, since the platform economy has a conflicting promise of autonomy. Platforms categorise workers as independent contractors but exercise significant control similar to a more standard form of employment. However, unlike standard employment where labour protections and benefits are embedded in contracts, gig workers often lack access to basic entitlements like health insurance, pensions and workplace protections. Although the Government of India introduced four labour codes in 2020 to help create a more effective regulatory environment, addressing the gig-workspace is not straightforward owing to the complexities of identification and codification of occupations and employment relationships.
 
+<p style="text-align: justify;">
 Drawing on examples from primary, secondary and tertiary sectors in India within the gig workspace, this paper focuses on: (a) disaggregating labour through definitions, (b) digital production sites and commodification of labour, (c) dilution of the typical employer-employee relationship and its role in labour protections, (d) algorithmic control and their connection to worker well-being, and (e) the dynamic movement between self-employment and gig work in the platform economy and the role of worker agency.
-
+</p>
 
 _References_
 \
