@@ -18,19 +18,3 @@ profile:
 The Centre for Market Regulations and Governance (CMRG) at [Vidyashilp University](https://vidyashilp.edu.in/), School of Legal Studies and Governance (SLSG) is a pioneering initiative for interdisciplinary research and education in law, economics, regulation, and governance. Positioned at the intersection of policy and practice, CMRG advances thought leadership, research-driven insights, and meaningful stakeholder engagement to shape the future of regulatory governance.
 
 Our mission is to establish regulation as a multidisciplinary field, equipping scholars, policymakers, businesses, and regulatory bodies with the knowledge and tools necessary to navigate complex market regulations. CMRG fosters collaboration between academia, industry, and government to shape efficient, transparent, and effective regulatory frameworks. Through collaborations between academia, industry, and government, CMRG is committed to advancing best practices, strengthening institutional capacity, and enabling informed decision-making in regulatory governance.
-<br>
-<br>
-<img align="center" src="/assets/img/mainpage_1.png" alt="abstrct" width="900"/>
-<br>
-<br>
-**What We Do**
-
-**CMRG** enhances regulatory literacy, improves governance mechanisms, and contributes to policy reforms through:
-
-+ Regulatory Research & Thought Leadership – Conducting evidence-based studies on evolving regulatory challenges.
-
-+ Capacity Building & Training – Offering executive education, certification courses, and workshops for regulators and regulated entities.
-
-+ Policy Advocacy & Engagement – Collaborating with policymakers, industry leaders, and international organizations to improve regulatory frameworks.
-
-+ Knowledge Dissemination – Publishing policy briefs, research papers, and case studies to contribute to academic and professional discourse.
