@@ -7,9 +7,9 @@ nav: false
 nav_order: 12
 ---
 <html>
-<img align="left" src="/assets/img/topbar1.png" alt="side" width="985"/><br>
-<br>
-<br>
+<img align="left" src="/assets/img/topbar1.png" alt="side" width="950"/><br>
+<p>
+</p>
 </html>
 
 **Work-in-Progress** 
