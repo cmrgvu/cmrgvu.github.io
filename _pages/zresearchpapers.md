@@ -7,7 +7,7 @@ nav: false
 nav_order: 12
 ---
 <html>
-<img align="left" src="/assets/img/topbar1.png" alt="side" width="975"/><br>
+<img align="left" src="/assets/img/topbar_space_grey.png" alt="side" width="975"/><br>
 <p>
 </p>
 </html>
