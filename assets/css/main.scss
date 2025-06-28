@@ -23,3 +23,23 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* assets/css/style.scss or similar */
+
+.page-header {
+    display: flex; /* Use flexbox for easy alignment */
+    align-items: center; /* Vertically align items in the middle */
+    margin-bottom: 20px; /* Add some space below the header */
+}
+
+.page-title-icon {
+    height: 40px; /* Adjust as needed */
+    width: auto; /* Maintain aspect ratio */
+    margin-right: 15px; /* Space between image and title */
+    /* You can add more styling here, e.g., border-radius for rounded corners */
+}
+
+.page-header h1 {
+    margin: 0; /* Remove default margin from the title to prevent extra space */
+    line-height: 1; /* Adjust line height if necessary */
+}
