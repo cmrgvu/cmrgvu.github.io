@@ -5,7 +5,7 @@ title: What We Do 2
 description:
 nav: false
 nav_order: 5
-page_icon: /assets/images/pyramid.png
+page_icon: /assets/img/pyramid.png
 ---
 # $\quad$ <strong>What We Do</strong>
 \
