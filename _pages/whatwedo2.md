@@ -7,8 +7,6 @@ nav: false
 nav_order: 5
 page_icon: /assets/img/pyramid.png
 ---
-/ # $\quad$ <strong>What We Do</strong>
-\
 **CMRG** enhances regulatory literacy, improves governance mechanisms, and contributes to policy reforms through:
 
 + Regulatory Research & Thought Leadership – Conducting evidence-based studies on evolving regulatory challenges.
