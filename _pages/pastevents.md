@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_vu
 permalink: /pastevents/
 title: Past Events
 description:
