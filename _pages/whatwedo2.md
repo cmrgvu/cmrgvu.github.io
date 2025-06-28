@@ -7,7 +7,6 @@ nav: false
 nav_order: 5
 page_icon: /assets/images/pyramid.png
 ---
-\
 # $\quad$ <strong>What We Do</strong>
 \
 **CMRG** enhances regulatory literacy, improves governance mechanisms, and contributes to policy reforms through:
