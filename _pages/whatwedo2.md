@@ -1,7 +1,7 @@
 ---
 layout: page_vu
 permalink: /whatwedo2/
-title: What We Do 2
+title: What We Do
 description:
 nav: false
 nav_order: 5
