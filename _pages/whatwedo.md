@@ -20,7 +20,7 @@ nav_order: 5
 =
 \
 \
-<img align="left" src="/assets/img/bullet.png" alt="bullet" width="300"/>
+<img align="left" src="/assets/img/bullet.png" alt="bullet" width="50"/>
 **CMRG** enhances regulatory literacy, improves governance mechanisms, and contributes to policy reforms through:
 
 + Regulatory Research & Thought Leadership – Conducting evidence-based studies on evolving regulatory challenges.
@@ -34,7 +34,7 @@ nav_order: 5
 \
 =
 \
-<img align="left" src="/assets/img/bullet.png" alt="bullet" width="200"/>
+<img align="left" src="/assets/img/bullet.png" alt="bullet" width="75"/>
 \
 \
 \
