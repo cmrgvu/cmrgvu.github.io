@@ -11,7 +11,7 @@ nav_order: 4
 
 profile:
   align: right
-  image: vidyashilpuniversity_logo.png
+  image: vidyashilp_university_logo.svg
 ---
 # **Centre for Market Regulations and Governance** (CMRG)
 \
