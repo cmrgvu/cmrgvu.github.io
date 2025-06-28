@@ -5,6 +5,7 @@ title: Past Events
 description:
 nav: false
 nav_order: 6
+page_icon: /assets/img/pastevents.png
 ---
 <strong>Two-Day Certificate Course on Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners | March 10-11, 2025 </strong><br>
 \
