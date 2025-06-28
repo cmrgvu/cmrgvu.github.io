@@ -22,7 +22,7 @@ nav_order: 5
 \
 <img align="left" src="/assets/img/bullet.png" alt="bullet" width="50"/>
 \
-$\quad@ <b>What We Do<\b>
+$\quad$ <b>What We Do<\b>
 \
 \
 \
