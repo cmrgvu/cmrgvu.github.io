@@ -21,9 +21,7 @@ nav_order: 5
 \
 \
 <img align="left" src="/assets/img/pyramid.png" alt="bullet" width="75"/>
-\
 $\quad$ <strong>What We Do</strong>
-\
 \
 \
 **CMRG** enhances regulatory literacy, improves governance mechanisms, and contributes to policy reforms through:
