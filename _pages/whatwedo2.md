@@ -1,7 +1,7 @@
 ---
 layout: page_vu
-permalink: /whatwedo/
-title: What We Do
+permalink: /whatwedo2/
+title: What We Do 2
 description:
 nav: false
 nav_order: 5
