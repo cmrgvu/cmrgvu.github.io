@@ -28,7 +28,7 @@ $max-content-width: {{ site.max_width }};
 .page-title-icon {
     float: left;
     margin-right: 15px; /* Space between image and title */
-    height: 40px; /* Adjust as needed */
+    height: 125px; /* Adjust as needed */
     width: auto;
     /* Clearfix might be needed on the parent if other content wraps around it */
 }
