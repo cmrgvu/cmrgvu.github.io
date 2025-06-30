@@ -8,13 +8,7 @@ children:
   - title: Research Papers
     permalink: /researchpapers/
   - title: divider
-  - title: Policy Briefs
-    permalink: /404/
-  - title: divider
-  - title: Public Comments
-    permalink: /404/
-  - title: divider
-  - title: Media
+  - title: Policy Briefs and Public Comments
     permalink: /404/
   - title: divider
   - title: Case Studies
@@ -29,10 +23,7 @@ children:
   - title: Blog
     permalink: /404/
   - title: divider
-  - title: Videos
-    permalink: /404/
-  - title: divider
-  - title: Podcast
+  - title: Videos and Podcast
     permalink: /404/
   - title: divider
   - title: Newsletter
