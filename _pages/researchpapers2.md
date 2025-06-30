@@ -13,10 +13,9 @@ page_icon: /assets/img/papers.png
 </p>
 </html>
 <html>
- <p>
-    
- </p>
- </html>
+<p>
+</p>
+</html>
 
 **Conference/ Workshop Papers** 
 
