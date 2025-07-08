@@ -12,10 +12,10 @@ page_icon: /assets/img/pastevents.png
 In __March 2025__, CMRG organised a two-day certificate course on __Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners__. A domain-agnostic course, it provided a structured approach to regulatory enforcement, covering procedural aspects, compliance mechanisms, and best practices for both regulators and regulated entities. This in-person course was tailored for officers of regulatory bodies, and regulatory professionals aiming to strengthen their procedural enforcement skills. This certificate course was held at Vidyashilp University, Bengaluru.
 
 The course was anchored by distinguished faculty comprising of: 
-+ __[Mr. P K Nagpal](https://in.linkedin.com/in/p-k-nagpal)__ on __Supervision & Oversight__
-+ __Mr. J. Ranganayakulu__ on __Enforcement & Adjudication__
-+ __[Prof. M. S. Sahoo](https://sahooregulatorychambers.in/about-us/founder/)__ on __Orders & Appeals__
-+ __[Prof. T. S. Somashekar](https://www.nls.ac.in/faculty/t-s-somashekar/)__ on __Overview of Regulatory Architecture__
++ __[Mr. P K Nagpal](https://in.linkedin.com/in/p-k-nagpal)(former Executive Director, SEBI)__ on __Supervision & Oversight__
++ __Mr. J. Ranganayakulu(former Executive Director – Legal, SEBI)__ on __Enforcement & Adjudication__
++ __[Prof. M. S. Sahoo](https://sahooregulatorychambers.in/about-us/founder/)(former Chairperson, Insolvency and Bankruptcy Board of India [IBBI])__ on __Orders & Appeals__
++ __[Prof. T. S. Somashekar](https://www.nls.ac.in/faculty/t-s-somashekar/)(Professor of Economics, National Law School of India University, Bengaluru)__ on __Overview of Regulatory Architecture__
 <br>
 <br>
 <img align="center" src="/assets/img/cmrg_march2025.png" alt="Certificate Course on Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners | May 10-11, 2025" width="900"/>
