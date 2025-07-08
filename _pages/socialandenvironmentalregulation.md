@@ -1,7 +1,7 @@
 ---
 layout: page_vu
 permalink: /socialandenvironmentalregulation/
-title: Social & Environmental Regulation
+title: Social and Environmental Regulation
 description:
 nav: false
 nav_order: 6
