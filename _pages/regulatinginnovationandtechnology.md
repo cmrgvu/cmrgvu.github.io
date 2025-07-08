@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: page_vu
 permalink: /regulatinginnovationandtechnology/
 title: Regulating Innovation & Technology
 description:
 nav: false
 nav_order: 6
+page_icon: /assets/img/gear.png
 ---
 
 Regulations must strike a balance between innovation and security and ethical considerations as sectors are transformed by automation, artificial intelligence, and platform economies. Our research intends to examine data privacy laws, AI governance, digital marketplaces, and cybersecurity regulations to ensure technology serves society responsibly. We focus on creating adaptive regulatory frameworks that encourage innovation while mitigating risks.
