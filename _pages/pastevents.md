@@ -14,19 +14,12 @@ On __26 February 2026__, the __School of Law__ and the __School of Business and 
 The session brought together HR practitioners, labour lawyers, and researchers to discuss key issues and work towards reasoned submissions during the public consultation. The SoL thanks all participants for their valuable contributions.
 
 The proposed roundtable sought to:
-- Examine the Draft IR (Karnataka) Rules, 2026 in detail, with particular attention to
-their implications for workers’ rights and trade union functioning.
-- Assess how provisions relating to union recognition, membership verification,
-standing orders, and dispute resolution affect workers and trade unions.
-- Identify clauses that may disproportionately affect minority unions, precarious
-workers, and workers in emerging sectors such as IT and platform-based work.
-- Develop clear, clause-specific recommendations to be submitted as part of the
-consultation process.
+- Examine the Draft IR (Karnataka) Rules, 2026 in detail, with particular attention to their implications for workers’ rights and trade union functioning.
+- Assess how provisions relating to union recognition, membership verification, standing orders, and dispute resolution affect workers and trade unions.
+- Identify clauses that may disproportionately affect minority unions, precarious workers, and workers in emerging sectors such as IT and platform-based work.
+- Develop clear, clause-specific recommendations to be submitted as part of the consultation process.
 
-Schedule 
-
-+ __[Prof. Saurabh Bhattacharjee, NLSIU](https://www.nls.ac.in/faculty/saurabh-bhattacharjee/)__ (Associate Professor of Law & Dean - Academics) on __Introduction to the IR Code, 2020__
-+ __Ms. Pallavi Roy, Dr. Shakti Chaturvedi, Mr. Tarique Faiyaz, Vidyashilp University__ on __Contextualising the Draft Karnataka (IR) Rules, 2026__
+__[Prof. Saurabh Bhattacharjee, NLSIU](https://www.nls.ac.in/faculty/saurabh-bhattacharjee/)__ (Associate Professor of Law & Dean - Academics) on __Introduction to the IR Code, 2020.____Ms. Pallavi Roy, Dr. Shakti Chaturvedi, Mr. Tarique Faiyaz, Vidyashilp University__ on __Contextualising the Draft Karnataka (IR) Rules, 2026.__
 <br>
 <br>
 <img align="center" src="/assets/img/cmrg_vu2026.jpg" alt="Certificate Course on Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners | May 10-11, 2025" width="900"/>
