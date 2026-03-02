@@ -31,7 +31,15 @@ Schedule
 <br>
 <img align="center" src="/assets/img/cmrg_vu2026.jpg" alt="Certificate Course on Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners | May 10-11, 2025" width="900"/>
 <br>
-
+<html>
+<img align="left" src="/assets/img/topbar_space_grey.png" alt="side" width="975"/><br>
+<p>
+</p>
+</html>
+<html>
+ <p>
+ </p>
+ </html>
 <br>
 <strong>Two-Day Certificate Course on Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners | March 10-11, 2025 </strong><br>
 <br>
