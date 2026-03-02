@@ -19,7 +19,7 @@ The proposed roundtable sought to:
 - Identify clauses that may disproportionately affect minority unions, precarious workers, and workers in emerging sectors such as IT and platform-based work.
 - Develop clear, clause-specific recommendations to be submitted as part of the consultation process.
 
-__[Prof. Saurabh Bhattacharjee, NLSIU](https://www.nls.ac.in/faculty/saurabh-bhattacharjee/)__ (Associate Professor of Law & Dean - Academics) on __Introduction to the IR Code, 2020.____Ms. Pallavi Roy, Dr. Shakti Chaturvedi, Mr. Tarique Faiyaz, Vidyashilp University__ on __Contextualising the Draft Karnataka (IR) Rules, 2026.__
+__[Prof. Saurabh Bhattacharjee, NLSIU](https://www.nls.ac.in/faculty/saurabh-bhattacharjee/)__ (Associate Professor of Law & Dean - Academics) led the session on __Introduction to the IR Code, 2020__. __Ms. Pallavi Roy, Dr. Shakti Chaturvedi, Mr. Tarique Faiyaz, Vidyashilp University__ co-led the session on __Contextualising the Draft Karnataka (IR) Rules, 2026.__
 <br>
 <br>
 <img align="center" src="/assets/img/cmrg_vu2026.jpg" alt="Certificate Course on Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners | May 10-11, 2025" width="900"/>
