@@ -16,7 +16,7 @@ For inquiries, collaborations, or to stay updated on CMRG’s research and event
 [<img align="right" src="/assets/img/vidyashilp_university_logo.svg" alt="Vidyashilp University Logo" width="300"/>](https://vidyashilp.edu.in/)
 **Address**: <br>
 Centre for Market Regulations and Governance (CMRG),<br> 
-School of Legal Studies and Governance,<br>
+School of Law,<br>
 Vidyashilp University,<br>
 #125, Bettenahalli, Kundana Hobli,<br> 
 Chapparkallu Road, Bengaluru - 562110
