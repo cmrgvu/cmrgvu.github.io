@@ -25,7 +25,7 @@ $\quad$ _Vidyashilp University, Bengaluru_
 \
 $\quad$ [__Prof. Roopa Madhav__](https://vidyashilp.edu.in/roopa-madhav/)
 \
-$\quad$ _Program Chair and Dean, School of Legal Studies and Governance_
+$\quad$ _Program Chair and Dean, School of Law_
 \
 $\quad$ _Vidyashilp University, Bengaluru_
 <br clear="left"/>
@@ -38,18 +38,20 @@ $\quad$ [__Ms. Avi Singh Majithia__](https://vidyashilp.edu.in/avi/)
 \
 $\quad$ _Senior Research Fellow_
 \
-$\quad$ _CMRG, School of Legal Studies and Governance_
+$\quad$ _CMRG, School of Law_
 \
 $\quad$ _Vidyashilp University, Bengaluru_
 <br clear="left"/>
 \
-[<img align="left" src="/assets/img/zuno_verghese_.jpg" alt="Zuno Verghese" width="200"/>](https://vidyashilp.edu.in/zuno/)
+<img align="left" src="/assets/img/zuno_verghese_.jpg" alt="Zuno Verghese" width="200"/>
 \
 \
 \
-$\quad$ [__Zuno Verghese__](https://vidyashilp.edu.in/zuno/)
+$\quad$ __Zuno Verghese__
 \
-$\quad$ _Assistant Professor, School of Legal Studies and Governance_
+$\quad$ _Senior Research Fellow_
+\
+$\quad$ _CMRG, School of Law_
 \
 $\quad$ _Vidyashilp University, Bengaluru_
 <br clear="left"/>
