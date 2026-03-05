@@ -5,17 +5,8 @@ title: Research Papers
 description:
 nav: false
 nav_order: 12
-page_icon: /assets/img/papers.png
+page_icon: 
 ---
-<html>
-<img align="left" src="/assets/img/topbar_space_grey.png" alt="side" width="975"/><br>
-<p>
-</p>
-</html>
-<html>
-<p>
-</p>
-</html>
 
 **Conference/ Workshop Papers** 
 
