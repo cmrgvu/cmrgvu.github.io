@@ -15,7 +15,7 @@ $\quad$ [__Prof. M.S. Sahoo__](https://vidyashilp.edu.in/sahoo/)
 \
 $\quad$ _Distinguished Professor (Honorary)_
 \
-$\quad$ _School of Legal Studies and Governance_
+$\quad$ _School of Law_
 \
 $\quad$ _Vidyashilp University, Bengaluru_
 <br clear="left"/>
