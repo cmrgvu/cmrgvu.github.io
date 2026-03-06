@@ -23,7 +23,7 @@ children:
   - title: Blog
     permalink: /404/
   - title: divider
-  - title: Videos and Podcast
+  - title: Videos and Podcasts
     permalink: /404/
   - title: divider
   - title: Newsletter
