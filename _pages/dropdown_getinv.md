@@ -13,7 +13,4 @@ children:
   - title: divider
   - title: Current Vacancies
     permalink: /404/
-  - title: divider
-  - title: Demo
-    permalink: /demo/
 ---
