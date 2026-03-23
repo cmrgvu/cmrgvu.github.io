@@ -36,7 +36,7 @@ $\quad$ _Vidyashilp University, Bengaluru_
 \
 $\quad$ [__Ms. Avi Singh Majithia__](https://vidyashilp.edu.in/avi/)
 \
-$\quad$ _Senior Research Fellow_
+$\quad$ _[Senior Research Fellow](https://orcid.org/0009-0001-1512-9136)_
 \
 $\quad$ _CMRG, School of Law_
 \
