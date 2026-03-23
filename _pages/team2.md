@@ -1,0 +1,59 @@
+---
+layout: page
+permalink: /team/
+title: Our Team 
+description:
+nav: false
+nav_order: 7
+---
+
+\
+[<img align="left" src="/assets/img/prof_p_g_babu.jpg" alt="Prof. P. G. Babu" width="200"/>](https://vidyashilp.edu.in/pg_babu/)
+\
+\
+\
+$\quad$ [__Prof. P. G. Babu__](https://vidyashilp.edu.in/pg_babu/) 
+\
+$\quad$ _Vice-Chancellor_
+\
+$\quad$ _Vidyashilp University, Bengaluru_
+\
+$\quad$ A highly experienced academic and administrator, Prof. P.G. Babu served for over three decades as a Professor at the Indira Gandhi Institute of Development Research (IGIDR), Mumbai, an institution established by the Reserve Bank of India, where he was also the Dean of Graduate Studies. Prior to his current role at Vidyashilp University, he was the Director of the Madras Institute of Development Studies (MIDS) from 2019 to 2022.
+<br clear="left"/>
+\
+[<img align="left" src="/assets/img/prof_roopa_madhav.jpg" alt="Prof. Roopa Madhav" width="200"/>](https://vidyashilp.edu.in/roopa-madhav/)
+\
+\
+\
+$\quad$ [__Prof. Roopa Madhav__](https://vidyashilp.edu.in/roopa-madhav/)
+\
+$\quad$ _Program Chair and Dean, School of Law_
+\
+$\quad$ _Vidyashilp University, Bengaluru_
+<br clear="left"/>
+\
+[<img align="left" src="/assets/img/avi_singh_majithia.jpg" alt="Avi Singh Majithia" width="200"/>](https://vidyashilp.edu.in/avi/)
+\
+\
+\
+$\quad$ [__Ms. Avi Singh Majithia__](https://vidyashilp.edu.in/avi/)
+\
+$\quad$ _[Senior Research Fellow](https://orcid.org/0009-0001-1512-9136)_
+\
+$\quad$ _CMRG, School of Law_
+\
+$\quad$ _Vidyashilp University, Bengaluru_
+<br clear="left"/>
+\
+<img align="left" src="/assets/img/zuno_verghese_.jpg" alt="Zuno Verghese" width="200"/>
+\
+\
+\
+$\quad$ __Zuno Verghese__
+\
+$\quad$ _Senior Research Fellow_
+\
+$\quad$ _CMRG, School of Law_
+\
+$\quad$ _Vidyashilp University, Bengaluru_
+<br clear="left"/>
