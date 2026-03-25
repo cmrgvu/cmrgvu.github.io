@@ -8,10 +8,15 @@ permalink: /
 description:
 nav: false
 nav_order: 1
+priority: 1
 
 profile:
   align: right
   image: vidyashilp_university_logo.svg
+
+news: true  # includes a list of news items
+social: false  # includes social icons at the bottom of the page
+
 ---
 # **Centre for Market Regulations and Governance** (CMRG)
 <br>
