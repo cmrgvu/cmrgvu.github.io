@@ -27,10 +27,9 @@ Our mission is to establish regulation as a multidisciplinary field, equipping s
 <p style="text-align: justify;">
 ________________________________________________________________________________________
 </p>
-<div class="container">
-    <img class="right-aligned-image" src="/assets/img/cmrg_may2026.png" alt="an event flyer for the Centre for Market Regulations and Governance (CMRG) at Vidyashilp University. The flyer is for a two-day workshop on Responsible Regulation: Regulatory Impact Assessment and Public Consultations. There are pictures of five speakers and lists their names and affiliations. Dr. M.S. Sahoo, former Chairperson, IBBI; Dr. Sachin Warghade, TISS; Ashwini Chitnis, WRI; Amol Kulkarni, CUTS International; Antaraa Vasudev, CIVIS. The bottom left features a QR code." width="75%" height="auto" data-zoomable=""> 
+<br>
+<img class="right-aligned-image" src="/assets/img/cmrg_may2026.png" alt="an event flyer for the Centre for Market Regulations and Governance (CMRG) at Vidyashilp University. The flyer is for a two-day workshop on Responsible Regulation: Regulatory Impact Assessment and Public Consultations. There are pictures of five speakers and lists their names and affiliations. Dr. M.S. Sahoo, former Chairperson, IBBI; Dr. Sachin Warghade, TISS; Ashwini Chitnis, WRI; Amol Kulkarni, CUTS International; Antaraa Vasudev, CIVIS. The bottom left features a QR code." width="75%" height="auto" data-zoomable=""> 
 <br>
 <br>
-<b><span style="background-color: lightcyan;">Upcoming Event</span></b>: Two-day workshop on May 08-09, 2026 on 'Responsible Regulation: Regulatory Impact Assessments and Public Consultations'. For more information and for registration link, click [here](https://cmrgvu.github.io/workshop/).</p>
-</div>
+<b><span style="background-color: lightcyan;">Upcoming Event</span></b>: Two-day workshop on May 08-09, 2026 on 'Responsible Regulation: Regulatory Impact Assessments and Public Consultations'. For more information and for registration link, click [here](https://cmrgvu.github.io/workshop/).
 
