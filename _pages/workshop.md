@@ -1,8 +1,8 @@
 ---
 layout: page_vu
 permalink: /workshop/
-title: Upcoming Two-Day Workshop on Responsible Regulation | May 08-09, 2026
-description:
+title: Two-Day Workshop on Responsible Regulation | May 08-09, 2026
+description: 
 nav: false
 nav_order: 6
 page_icon: 
