@@ -1,14 +1,14 @@
 ---
 layout: page_vu
 permalink: /workshop/
-title: Upcoming Two-Day Workshop on Responsible Regulation | May 2026
+title: Upcoming Two-Day Workshop on Responsible Regulation | May 08-09, 2026
 description:
 nav: false
 nav_order: 6
 page_icon: 
 ---
 <p style="text-align: justify;">
-On <b>May 08-09, 2026</b>, CMRG is organising a two-day workshop on <ins><b>Responsible Regulation: Regulatory Impact Assessments and Public Consultations</b></ins>. This workshop focuses on building capacity within the regulatory ecosystem to design and implement effective, evidence-based and responsible regulations. It will cover key aspects  of Regulatory Impact Assessments (RIAs), including cost-benefit and multi-criteria analysis, as well as the role of structured and inclusive public consultations in strengthening regulatory decision-making.
+In <b>May 2026</b>, CMRG is organising a two-day workshop on <ins><b>Responsible Regulation: Regulatory Impact Assessments and Public Consultations</b></ins>. This workshop focuses on building capacity within the regulatory ecosystem to design and implement effective, evidence-based and responsible regulations. It will cover key aspects  of Regulatory Impact Assessments (RIAs), including cost-benefit and multi-criteria analysis, as well as the role of structured and inclusive public consultations in strengthening regulatory decision-making.
 </p>
 <p style="text-align: justify;">
 The programme is designed for government officials, regulatory professionals, legal and policy experts, industry representatives, and researchers engaged in regulatory processes. It brings together leading practitioners and experts to discuss both conceptual frameworks and practical approaches to responsible regulation. 
