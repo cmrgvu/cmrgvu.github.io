@@ -15,8 +15,6 @@ profile:
   image: vidyashilp_university_logo.svg
 
 news: true  # includes a list of news items
-social: false  # includes social icons at the bottom of the page
-
 ---
 # **Centre for Market Regulations and Governance** (CMRG)
 <br>
