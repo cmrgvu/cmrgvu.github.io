@@ -7,12 +7,13 @@ nav: false
 nav_order: 6
 page_icon: 
 ---
-<strong>Two-Day Workshop on Responsible Regulation: Regulatory Impact Assessments and Public Consultations | May 08-09, 2026 | Vidyashilp University, Bengaluru </strong><br>
 <p style="text-align: justify;">
-On <b>May 08-09, 2026</b>, CMRG is organising a two-day workshop on <b>Responsible Regulation: Regulatory Impact Assessments and Public Consultations</b>. This workshop focuses on building capacity within the regulatory ecosystem to design and implement effective, evidence-based and responsible regulations. It will cover key aspects  of Regulatory Impact Assessments (RIAs), including cost-benefit and multi-criteria analysis, as well as the role of structured and inclusive public consultations in strengthening regulatory decision-making.
+On <b>May 08-09, 2026</b>, CMRG is organising a two-day workshop on <ins><b>Responsible Regulation: Regulatory Impact Assessments and Public Consultations</b></ins>. This workshop focuses on building capacity within the regulatory ecosystem to design and implement effective, evidence-based and responsible regulations. It will cover key aspects  of Regulatory Impact Assessments (RIAs), including cost-benefit and multi-criteria analysis, as well as the role of structured and inclusive public consultations in strengthening regulatory decision-making.
 </p>
 <p style="text-align: justify;">
-The programme is designed for government officials, regulatory professionals, legal and policy experts, industry representatives, and researchers engaged in regulatory processes. It brings together leading practitioners and experts to discuss both conceptual frameworks and practical approaches to responsible regulation. This workshop shall be held at Vidyashilp University, Bengaluru. 
+The programme is designed for government officials, regulatory professionals, legal and policy experts, industry representatives, and researchers engaged in regulatory processes. It brings together leading practitioners and experts to discuss both conceptual frameworks and practical approaches to responsible regulation. 
+<br>  
+This workshop shall be held at Vidyashilp University, Bengaluru. 
 </p>
 <p style="text-align: justify;">
 <ins><b>Fee</b></ins>: INR 5000 + GST (excludes accommodation and travel)
