@@ -24,6 +24,5 @@ __Registration form__: [click here for registration](https://forms.gle/moeAw1iT9
 <br>
 For any queries, please email cmrg@vidyashilp.edu.in
 <br>
-<br>
 <center><img align="center" src="/assets/img/cmrg_may2026.png" alt="an event flyer for the Centre for Market Regulations and Governance (CMRG) at Vidyashilp University. The flyer is for a two-day workshop on Responsible Regulation: Regulatory Impact Assessment and Public Consultations. There are pictures of five speakers and lists their names and affiliations. Dr. M.S. Sahoo, former Chairperson, IBBI; Dr. Sachin Warghade, TISS; Ashwini Chitnis, WRI; Amol Kulkarni, CUTS International; Antaraa Vasudev, CIVIS. The bottom left features a QR code." width="900"></center>
 <br>
