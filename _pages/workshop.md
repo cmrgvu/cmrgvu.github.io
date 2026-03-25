@@ -17,8 +17,7 @@ The programme is designed for government officials, regulatory professionals, le
 <p style="text-align: justify;">
 <ins><b>Fee</b></ins>: INR 5000 + GST (excludes accommodation and travel)
 </p>
-<br>
-__Registration form__: [click here for registration](https://forms.gle/moeAw1iT9u7Q3etP9)| Payment link shall be shared upon registration
+__Registration form__: [click here for registration](https://forms.gle/moeAw1iT9u7Q3etP9) (the payment link shall be shared upon registration
 <br>
 <br>
 For any queries, please email cmrg@vidyashilp.edu.in
