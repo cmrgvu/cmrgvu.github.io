@@ -21,7 +21,7 @@ The programme is designed for government officials, regulatory professionals, le
 <b>Registration form</b>: https://forms.gle/moeAw1iT9u7Q3etP9 | Payment link shall be shared upon registration
 <br>
 <br>
-For any queries, please email cmrg@vidyashilp.edu.in.
+For any queries, please email cmrg@vidyashilp.edu.in
 <br>
 <br>
 </p>
