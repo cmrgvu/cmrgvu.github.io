@@ -13,9 +13,11 @@ On __May 08 - 09, 2026__, CMRG is organising a two-day workshop on __Responsible
 
 The programme is designed for government officials, regulatory professionals, legal and policy experts, industry representatives, and researchers engaged in regulatory processes. It brings together leading practitioners and experts to discuss both conceptual frameworks and practical approaches to responsible regulation. This workshop shall be held at Vidyashilp University, Bengaluru. 
 
-Fee: INR 5000 + GST (excludes accommodation and travel)
+<ins>Fee</ins>: INR 5000 + GST (excludes accommodation and travel)
+<br>
 <br>
 __Registration form__: https://forms.gle/moeAw1iT9u7Q3etP9 - ** Payment link shall be shared upon registration
+<br>
 <br>
 For any queries, please email cmrg@vidyashilp.edu.in.
 <br>
