@@ -9,7 +9,7 @@ children:
     permalink: /404/
   - title: divider
   - title: Seminars/Workshops/Roundtables
-    permalink: /404/
+    permalink: /workshop/
   - title: divider
   - title: Past Events
     permalink: /pastevents/
