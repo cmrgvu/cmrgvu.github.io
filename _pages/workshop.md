@@ -1,7 +1,7 @@
 ---
 layout: page_vu
 permalink: /workshop/
-title: Upcoming Two-Day Workshop on Responsible Regulation: Regulatory Impact Assessments and Public Consultations, May 08-09, 2026
+title: Upcoming Two-Day Workshop on Responsible Regulation > Regulatory Impact Assessments and Public Consultations | May 08-09, 2026 |  Vidyashilp University, Bengaluru
 description:
 nav: false
 nav_order: 6
