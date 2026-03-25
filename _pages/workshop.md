@@ -12,7 +12,8 @@ On <b>May 08-09, 2026</b>, CMRG is organising a two-day workshop on <ins><b>Resp
 </p>
 <p style="text-align: justify;">
 The programme is designed for government officials, regulatory professionals, legal and policy experts, industry representatives, and researchers engaged in regulatory processes. It brings together leading practitioners and experts to discuss both conceptual frameworks and practical approaches to responsible regulation. 
-<br>  
+<br>
+<br>
 This workshop shall be held at Vidyashilp University, Bengaluru. 
 </p>
 <p style="text-align: justify;">
