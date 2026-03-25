@@ -1,4 +1,3 @@
-<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/d098f83b-f02d-4945-96cb-f6c7e8dffe9b" />---
 layout: about
 title: Home
 home_title: __Centre for Market Regulations and Governance (CMRG)__
