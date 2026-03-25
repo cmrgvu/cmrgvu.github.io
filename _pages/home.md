@@ -28,7 +28,7 @@ Our mission is to establish regulation as a multidisciplinary field, equipping s
 <span style="color:grey">______________________________________________________________________________</span>
 </p>
 <p style="text-align: justify;">
-<b><span style="background-color: yellow;">Upcoming Event</span></b>:<b><a href="https://cmrgvu.github.io/workshop"> Two-Day Workshop on 'Responsible Regulation: Regulatory Impact Assessments and Public Consultations' | May 08-09, 2026</b>
+<span style="background-color: yellow;"><b>Upcoming Event</b></span>:<b><a href="https://cmrgvu.github.io/workshop"> Two-Day Workshop on 'Responsible Regulation: Regulatory Impact Assessments and Public Consultations' | May 08-09, 2026</b>
 </p>
 <h5 style="text-align:center;"><a href="https://forms.gle/moeAw1iT9u7Q3etP9">[click here for registration]</a></h5>
 <center><img align="center" src="/assets/img/cmrg_may2026.png" alt="an event flyer for the Centre for Market Regulations and Governance (CMRG) at Vidyashilp University. The flyer is for a two-day workshop on Responsible Regulation: Regulatory Impact Assessment and Public Consultations. There are pictures of five speakers and lists their names and affiliations. Dr. M.S. Sahoo, former Chairperson, IBBI; Dr. Sachin Warghade, TISS; Ashwini Chitnis, WRI; Amol Kulkarni, CUTS International; Antaraa Vasudev, CIVIS. The bottom left features a QR code." width="75%" height="auto" data-zoomable=""></center>
