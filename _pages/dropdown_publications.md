@@ -8,6 +8,9 @@ children:
   - title: Research Papers
     permalink: /researchpapers/
   - title: divider
+  - title: Work-in-Progress Papers
+    permalink: /wippapers/
+  - title: divider
   - title: Policy Briefs and Public Comments
     permalink: /404/
   - title: divider
