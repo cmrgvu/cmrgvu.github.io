@@ -42,16 +42,3 @@ $\quad$ _CMRG, School of Law_
 \
 $\quad$ _Vidyashilp University, Bengaluru_
 <br clear="left"/>
-\
-<img align="left" src="/assets/img/zuno_verghese_.jpg" alt="Zuno Verghese" width="200"/>
-\
-\
-\
-$\quad$ __Zuno Verghese__
-\
-$\quad$ _Senior Research Fellow_
-\
-$\quad$ _CMRG, School of Law_
-\
-$\quad$ _Vidyashilp University, Bengaluru_
-<br clear="left"/>
