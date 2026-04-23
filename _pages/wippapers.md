@@ -7,8 +7,10 @@ nav: false
 nav_order: 12
 page_icon: 
 ---
-_March 2026_: Working Paper on **Tailoring an RIA Framework for the Indian Context: Key Takeaways** by Avi Majithia
 <p style="text-align: justify;">
-As a part of the Vidyashilp University Working Papers Series, Avi Majithia has written a working paper on <b>“Tailoring an RIA Framework for the Indian Context: Key Takeaways”</b> which is currently under peer-review. 
+Ms. Avi Majithia, Senior Research Fellow at CMRG, has written a working paper on <strong><a href="https://cmrgvu.github.io/assets/pdf/CMRG%20working%20paper%201-%20RIA_20260423.docx">“Tailoring an RIA Framework for the Indian Context: Key Takeaways”</a></strong>. This working paper explores how India can institutionalise Regulatory Impact Assessments (RIAs) as a tool for improving the quality, transparency, and accountability of lawmaking and regulation. It argues that while global RIA models offer useful lessons, India requires an indigenised framework tailored to its federal structure, fragmented regulatory landscape, data limitations, and socio-economic diversity. Drawing on International case studies and Indian developments, the paper makes the case for an India-specific framework to conduct RIAs. 
 </p>
+
+
+
 
