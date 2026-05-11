@@ -19,7 +19,6 @@ The course was anchored by distinguished faculty comprising of:
 + __[Dr. Amol Kulkarni](https://www.linkedin.com/in/amol-kulkarni-0463bbb9/)__ (Director, Research at CUTS International) on __Tools and Techniques for RIAs: Cost-Benefit Analysis, Multi-Criteria Analysis, and Cost-Effectiveness Approaches__
 + __[Ms. Antaraa Vasudev](https://in.linkedin.com/in/antaraavasudev)__ (Founder, CIVIS) on __Public Consultations in Regulatory Decision-Making – Need, Frequency, and Process__  
 </p>
-<br>
 <span style="color:grey">______________________________________________________________________________</span>
 <br>
 <br>
