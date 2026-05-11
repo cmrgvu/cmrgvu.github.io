@@ -22,6 +22,7 @@ The course was anchored by distinguished faculty comprising of:
 <br>
 <span style="color:grey">______________________________________________________________________________</span>
 <br>
+<br>
 <strong>Two-Day Certificate Course on Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners | March 10-11, 2025 </strong><br>
 <br>
 In __March 2025__, CMRG organised a two-day certificate course on __Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners__. A domain-agnostic course, it provided a structured approach to regulatory enforcement, covering procedural aspects, compliance mechanisms, and best practices for both regulators and regulated entities. This in-person course was tailored for officers of regulatory bodies, and regulatory professionals aiming to strengthen their procedural enforcement skills. This certificate course was held at Vidyashilp University, Bengaluru.
