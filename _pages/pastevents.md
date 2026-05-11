@@ -7,7 +7,6 @@ nav: false
 nav_order: 6
 page_icon: 
 ---
-<p style="text-align: justify;">
 <strong>Two-Day Workshop on 'Responsible Regulation: Regulatory Impact Assessments and Public Consultations' | May 08-09, 2026 </strong><br>
 <br>
 In __May 2026__, CMRG organised a two-day workshop on __Responsible Regulation: Regulatory Impact Assessments and Public Consultations__. This workshop focused on building capacity within the regulatory ecosystem to design and implement effective, evidence-based and responsible regulations. It covered key aspects of Regulatory Impact Assessments (RIAs), including cost-benefit and multi-criteria analysis, as well as the role of structured and inclusive public consultations in strengthening regulatory decision-making. This certificate course was held at Vidyashilp University, Bengaluru.  
@@ -18,7 +17,7 @@ The course was anchored by distinguished faculty comprising of:
 + __[Ms. Ashwini Chitnis](https://wri-india.org/profile/ashwini-chitnis?__cf_chl_rt_tk=WV4D44MbyWoOuESmxARgHdGI4MoBUicCwQ_a5gU.zs8-1778481290-1.0.1.1-yN6pemYjbDPqWbx_BZ2cbZI3d3fgeHtVq69_Huss_1E)__ (Program Head - Clean Energy Supply, WRI India) for the panel discussion on __RIAs in India - Opportunities and Challenges__
 + __[Dr. Amol Kulkarni](https://www.linkedin.com/in/amol-kulkarni-0463bbb9/)__ (Director, Research at CUTS International) on __Tools and Techniques for RIAs: Cost-Benefit Analysis, Multi-Criteria Analysis, and Cost-Effectiveness Approaches__
 + __[Ms. Antaraa Vasudev](https://in.linkedin.com/in/antaraavasudev)__ (Founder, CIVIS) on __Public Consultations in Regulatory Decision-Making – Need, Frequency, and Process__  
-</p>
+<br>
 <span style="color:grey">______________________________________________________________________________</span>
 <br>
 <br>
