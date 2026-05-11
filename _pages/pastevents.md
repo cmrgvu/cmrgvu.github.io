@@ -8,7 +8,7 @@ nav_order: 6
 page_icon: 
 ---
 <p style="text-align: justify;">
-<strong>Two-Day Workshop on 'Responsible Regulation: Regulatory Impact Assessments and Public Consultations' | May 08-09, 2026 </strong>
+<strong>Two-Day Workshop on 'Responsible Regulation: Regulatory Impact Assessments and Public Consultations' | May 08-09, 2026 </strong><br>
 <br>
 In __May 2026__, CMRG organised a two-day workshop on __Responsible Regulation: Regulatory Impact Assessments and Public Consultations__. This workshop focused on building capacity within the regulatory ecosystem to design and implement effective, evidence-based and responsible regulations. It covered key aspects of Regulatory Impact Assessments (RIAs), including cost-benefit and multi-criteria analysis, as well as the role of structured and inclusive public consultations in strengthening regulatory decision-making. This certificate course was held at Vidyashilp University, Bengaluru.  
 
