@@ -1,8 +1,8 @@
 ---
 layout: page_vu
 permalink: /workshop/
-title: 
-description: Seminars - Workshops-  Roundtables
+title: Seminars | Workshops | Roundtables
+description: 
 nav: false
 nav_order: 6
 page_icon: 
