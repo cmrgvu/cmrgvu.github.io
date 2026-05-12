@@ -10,4 +10,4 @@ page_icon:
 
 CMRG offers specialized certificate programs tailored for regulators, industry professionals, and scholars (Executive Education and Capacity Building) seeking a deeper understanding of regulatory enforcement and compliance. 
 
-In March 2025, CMRG organised a two-day certificate course on __Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners__. For more details about this event, please visit the _[Past Events](https://cmrgvu.github.io/pastevents/)_ section.
+In May 2026, CMRG organised a two-day workshop on Responsible Regulation: Regulatory Impact Assessments and Public Consultations. In March 2025, CMRG organised a two-day certificate course on __Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners__. For more details about these events, please visit the _[Past Events](https://cmrgvu.github.io/pastevents/)_ section.
