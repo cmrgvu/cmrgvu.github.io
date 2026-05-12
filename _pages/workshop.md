@@ -1,28 +1,11 @@
 ---
 layout: page_vu
 permalink: /workshop/
-title: Two-Day Workshop on Responsible Regulation | May 08-09, 2026
+title: 
 description: 
 nav: false
 nav_order: 6
 page_icon: 
 ---
-<p style="text-align: justify;">
-In <b>May 2026</b>, CMRG is organising a two-day workshop on <ins><b>Responsible Regulation: Regulatory Impact Assessments and Public Consultations</b></ins>. This workshop focuses on building capacity within the regulatory ecosystem to design and implement effective, evidence-based and responsible regulations. It will cover key aspects  of Regulatory Impact Assessments (RIAs), including cost-benefit and multi-criteria analysis, as well as the role of structured and inclusive public consultations in strengthening regulatory decision-making.
-</p>
-<p style="text-align: justify;">
-The programme is designed for government officials, regulatory professionals, legal and policy experts, industry representatives, and researchers engaged in regulatory processes. It brings together leading practitioners and experts to discuss both conceptual frameworks and practical approaches to responsible regulation. 
-<br>
-<br>
-This workshop shall be held at Vidyashilp University, Bengaluru. 
-</p>
-<p style="text-align: justify;">
-<ins><b>Fee</b></ins>: INR 5000 + GST (excludes accommodation and travel)
-</p>
-__Registration form__: [click here for registration](https://forms.gle/moeAw1iT9u7Q3etP9) (the payment link shall be shared upon registration)
-<br>
-<br>
-For any queries, please email cmrg@vidyashilp.edu.in
-<br>
-<center><img align="center" src="/assets/img/cmrg_may2026.png" alt="an event flyer for the Centre for Market Regulations and Governance (CMRG) at Vidyashilp University. The flyer is for a two-day workshop on Responsible Regulation: Regulatory Impact Assessment and Public Consultations. There are pictures of five speakers and lists their names and affiliations. Dr. M.S. Sahoo, former Chairperson, IBBI; Dr. Sachin Warghade, TISS; Ashwini Chitnis, WRI; Amol Kulkarni, CUTS International; Antaraa Vasudev, CIVIS. The bottom left features a QR code." width="900"></center>
-<br>
+CMRG offers specialized certificate programs and conducts events tailored for regulators, industry professionals, and scholars (Executive Education and Capacity Building) seeking a deeper understanding of regulatory enforcement and compliance. For more details about such events, please visit the _[Past Events](https://cmrgvu.github.io/pastevents/)_ section.
+
