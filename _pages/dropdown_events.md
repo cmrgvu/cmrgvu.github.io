@@ -6,7 +6,7 @@ nav_order: 9
 dropdown: true
 children:
   - title: Conferences
-    permalink: /404/
+    permalink: /conferences/
   - title: divider
   - title: Seminars/Workshops/Roundtables
     permalink: /workshop/
