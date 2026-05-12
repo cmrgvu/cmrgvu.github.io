@@ -2,7 +2,7 @@
 layout: page_vu
 permalink: /workshop/
 title: 
-description: 
+description: Seminars/ Workshops/ Roundtables
 nav: false
 nav_order: 6
 page_icon: 
