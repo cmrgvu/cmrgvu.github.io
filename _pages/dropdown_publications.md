@@ -12,7 +12,7 @@ children:
     permalink: /wippapers/
   - title: divider
   - title: Policy Briefs and Public Comments
-    permalink: /404/
+    permalink: /policybriefspubliccomments/
   - title: divider
   - title: Case Studies
     permalink: /404/
