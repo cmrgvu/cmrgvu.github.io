@@ -7,6 +7,8 @@ nav: false
 nav_order: 12
 page_icon: 
 ---
+<strong>CMRG's Comments of the RMC Report for the Karnataka State Excise Reforms, 2026</strong><br>
+<br>
 <p style="text-align: justify;">
 In June 2026, <strong>the Centre for Market Regulations and Governance (CMRG) at Vidyashilp University </strong><strong><a href="https://cmrgvu.github.io/assets/pdf/Comments%20on%20the%20RMC%20Draft%20Report_Karnataka%20Excise%20Reforms%202026.pdf">submitted its response on Resource Mobilisation Committee, Karnataka's (RMC) invitation for suggestions and comments for the RMC Report Karnataka State Excise Reforms, 2026</a></strong>. RMC's Report assesses a proposal for transitioning Karnataka’s alcohol excise system from a price-and-category-based structure to a strength-based excise levied per litre of alcohol in beverage (LAIB) system, to be implemented over a 3-yr period, as set out in the Karnataka State Excise Reforms 2026 Draft Report prepared by the Resource Mobilisation Committee headed by Dr. K.P. Krishnan.
 <br>
