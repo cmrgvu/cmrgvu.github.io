@@ -9,8 +9,10 @@ page_icon:
 ---
 <strong>Two-Day Workshop on 'Responsible Regulation: Regulatory Impact Assessments and Public Consultations' | May 08-09, 2026 </strong><br>
 <br>
-In __May 2026__, CMRG organised a two-day workshop on __Responsible Regulation: Regulatory Impact Assessments and Public Consultations__. This workshop focused on building capacity within the regulatory ecosystem to design and implement effective, evidence-based and responsible regulations. It covered key aspects of Regulatory Impact Assessments (RIAs), including cost-benefit and multi-criteria analysis, as well as the role of structured and inclusive public consultations in strengthening regulatory decision-making. This certificate course was held at Vidyashilp University, Bengaluru. The __Workshop Report__ is available <strong>here</strong><a href="https://cmrgvu.github.io/assets/pdf/Event%20Report_Workshop%20on%20Responsible%20Regulation.pdf">
-
+In __May 2026__, CMRG organised a two-day workshop on __Responsible Regulation: Regulatory Impact Assessments and Public Consultations__. This workshop focused on building capacity within the regulatory ecosystem to design and implement effective, evidence-based and responsible regulations. It covered key aspects of Regulatory Impact Assessments (RIAs), including cost-benefit and multi-criteria analysis, as well as the role of structured and inclusive public consultations in strengthening regulatory decision-making. This certificate course was held at Vidyashilp University, Bengaluru. 
+<br>
+The __Workshop Report__ is available __[here](https://cmrgvu.github.io/assets/pdf/Event%20Report_Workshop%20on%20Responsible%20Regulation.pdf)__.
+<br>
 The course was anchored by distinguished faculty comprising of: 
 + __[Prof. M. S. Sahoo](https://sahooregulatorychambers.in/about-us/founder/)__ (former Chairperson, Insolvency and Bankruptcy Board of India [IBBI]) on __The Indian Regulatory Landscape: Current Challenges in Rulemaking and the Need for Structured Regulatory Processes__ and __Institutionalising RIAs and Public Consultation: Lessons from Policy Practice__
 + __[Dr. Sachin Warghade](https://tiss.ac.in/view/9/employee/sachin-warghade/)__ (Chairperson, Centre for Regulatory Policy and Governance, Tata Institute of Social Sciences [TISS], Mumbai) on __Understanding Regulatory Impact Assessments: Purpose, Principles, and the Role of Impact Analysis in Regulatory Decision-Making__
