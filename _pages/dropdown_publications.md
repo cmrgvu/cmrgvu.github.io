@@ -14,8 +14,8 @@ children:
   - title: Policy Briefs and Public Comments
     permalink: /policybriefspubliccomments/
   - title: divider
-  - title: Case Studies
-    permalink: /404/
+  - title: Blog
+    permalink: /blogcmrg/
   - title: divider
   - title: Journal
     permalink: /404/
@@ -23,7 +23,7 @@ children:
   - title: Books
     permalink: /404/
   - title: divider
-  - title: Blog
+  - title: Case Studies
     permalink: /404/
   - title: divider
   - title: Videos and Podcasts
