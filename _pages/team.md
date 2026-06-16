@@ -42,3 +42,16 @@ $\quad$ _CMRG, School of Law_
 \
 $\quad$ _Vidyashilp University, Bengaluru_
 <br clear="left"/>
+\
+[<img align="left" src="/assets/img/soumik.png" alt="Mr. Soumik Chakraborty" width="200"/>](https://www.linkedin.com/in/soumik-chakraborty-2151672b/)
+\
+\
+\
+$\quad$ [__Mr. Soumik Chakraborty__](https://www.linkedin.com/in/soumik-chakraborty-2151672b/)
+\
+$\quad$ _Senior Research Fellow (Law)_
+\
+$\quad$ _CMRG, School of Law_
+\
+$\quad$ _Vidyashilp University, Bengaluru_
+<br clear="left"/>
