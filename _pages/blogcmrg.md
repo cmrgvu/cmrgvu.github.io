@@ -1,6 +1,6 @@
 ---
 layout: page_vu
-permalink: /blog/
+permalink: /blogcmrg/
 title: Blog
 description:
 nav: false
