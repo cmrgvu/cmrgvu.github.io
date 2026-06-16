@@ -66,7 +66,7 @@ Nudge policies at the local and decentralised level are necessary and should be 
 <li>Gathering data at the local level is easier than at a national scale. Designing nudges at the local level will be less time consuming than at the national scale.</li>
 <li>Understanding of local conditions can also benefit in tailoring better nudge policies, such as climate change mitigation and adaptation measure.</li>
 </ul>
-<br>
+
 Nudges, however, have their limitations as well. There are ethical considerations when designing nudge policies as they carry a risk of manipulation. Nudges can have unintended consequences, contrary to the preferred policy decision. Making organ donation the default option is a tried and tested method. However, when the government in the Netherlands changed the way citizens consent to donate organs (default opt-in), an equal number of citizens refused to donate as those who signed up to donate. Finally, while nudge theory can influence behaviour, it cannot do so in every context. Operating at a hyper-localized scale like the village- and district-level means that while a policy nudge may work in that specific context, it will not necessarily scale as is to the national level.
 <br>
 <br>
