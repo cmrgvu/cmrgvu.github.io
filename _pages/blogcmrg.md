@@ -15,14 +15,17 @@ page_icon:
 What began as a guide to healthy eating- the USDA’s iconic food pyramid- ended up only confusing the people it was trying to help. The U.S. Department of Agriculture (USDA) created it in 1992, dividing it into six sections containing information about the types of foods the average American should be consuming per day. Even after the USDA updated it in 2005, the average American continued to find it largely incomprehensible in helping decide how to create a balanced meal. 
 <br>
 <br>
-<img align="center" src="/assets/img/Blog1_1.jpg" alt="The USDA Food Pyramid (2005) " width="900"/>
+<img align="center" src="/assets/img/Blog1_1.jpg" alt="The USDA Food Pyramid (2005) " width="450"/>
+
 <i>The USDA Food Pyramid (2005)</i>
 <br>
 <br>
 Cass Sunstein, a notable economist working with the government at the time said that the solution was an easier graphic, that helped parents understand the elements of a balanced diet better and would require lesser mental effort to interpret. This introduced MyPlate. 
-<img align="center" src="/assets/img/Blog1_2.png" alt="USDA MyPlate Graphic" width="900"/>
+<br>
+<br>
+<img align="center" src="/assets/img/Blog1_2.png" alt="USDA MyPlate Graphic" width="450"/>
+
 <i>USDA MyPlate Graphic</i>
-The USDA Food Pyramid (2005) 
 <br>
 <br>
 According to Sunstein, one of the authors (with Richard Thaler) of Nudge, a book on choice architecture and behavioural economics, changing this graphic was not a minor detail. For government policy and regulations to be effective, policymakers must present them in an easy-to-understand manner.
