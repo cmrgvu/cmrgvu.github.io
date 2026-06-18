@@ -14,7 +14,7 @@ nav_order: 7
 \
 $\quad$ [__Prof. P. G. Babu__](https://vidyashilp.edu.in/pg_babu/) 
 \
-$\quad$ _Vice-Chancellor_
+$\quad$ _[Vice-Chancellor](https://vidyashilp.edu.in/pg_babu/)_ 
 \
 $\quad$ _Vidyashilp University, Bengaluru_
 <br clear="left"/>
@@ -25,7 +25,7 @@ $\quad$ _Vidyashilp University, Bengaluru_
 \
 $\quad$ [__Prof. Roopa Madhav__](https://vidyashilp.edu.in/roopa-madhav/)
 \
-$\quad$ _Program Chair and Dean, School of Law_
+$\quad$ _[Program Chair and Dean, School of Law](https://vidyashilp.edu.in/roopa-madhav/)_
 \
 $\quad$ _Vidyashilp University, Bengaluru_
 <br clear="left"/>
