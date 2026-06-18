@@ -13,8 +13,6 @@ children:
   - title: divider
   - title: Policy Briefs and Public Comments
     permalink: /policybriefspubliccomments/
-  - title: Policy Briefs and Public Comments2
-    permalink: /policybriefspubliccomments2/
   - title: divider
   - title: Blog
     permalink: /blogcmrg/
