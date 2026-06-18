@@ -8,7 +8,7 @@ nav_order: 6
 page_icon: 
 ---
 
-<strong><ins>Becoming Choice Architects: The Power of the Nudge in Policy Making</ins></strong>
+<strong><ins>Becoming Choice Architects: The Power of the Nudge in Policy Making (2025)</ins></strong>
 <br>
 <ins>P.G. Babu, Roopa Madhav, Avi Singh Majithia</ins>
 <p style="text-align: justify;">
