@@ -7,7 +7,6 @@ nav: false
 nav_order: 7
 ---
 
-
 \
 [<img align="left" src="/assets/img/prof_roopa_madhav.jpg" alt="Prof. Roopa Madhav" width="200"/>](https://vidyashilp.edu.in/roopa-madhav/)
 \
