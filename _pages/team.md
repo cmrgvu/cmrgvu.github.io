@@ -7,17 +7,7 @@ nav: false
 nav_order: 7
 ---
 
-\
-[<img align="left" src="/assets/img/prof_p_g_babu.jpg" alt="Prof. P. G. Babu" width="200"/>](https://vidyashilp.edu.in/pg_babu/)
-\
-\
-\
-$\quad$ [__Prof. P. G. Babu__](https://vidyashilp.edu.in/pg_babu/) 
-\
-$\quad$ _[Vice-Chancellor](https://vidyashilp.edu.in/pg_babu/)_ 
-\
-$\quad$ _Vidyashilp University, Bengaluru_
-<br clear="left"/>
+
 \
 [<img align="left" src="/assets/img/prof_roopa_madhav.jpg" alt="Prof. Roopa Madhav" width="200"/>](https://vidyashilp.edu.in/roopa-madhav/)
 \
@@ -25,7 +15,7 @@ $\quad$ _Vidyashilp University, Bengaluru_
 \
 $\quad$ [__Prof. Roopa Madhav__](https://vidyashilp.edu.in/roopa-madhav/)
 \
-$\quad$ _[Program Chair and Dean, School of Law](https://vidyashilp.edu.in/roopa-madhav/)_
+$\quad$ _[Officiating Vice-Chancellor, Program Chair and Dean, School of Law](https://vidyashilp.edu.in/roopa-madhav/)_
 \
 $\quad$ _Vidyashilp University, Bengaluru_
 <br clear="left"/>
